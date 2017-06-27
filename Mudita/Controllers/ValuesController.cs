@@ -13,7 +13,29 @@ namespace Mudita.Controllers
         [HttpGet]
         public IEnumerable<string> Get()
         {
-            return new string[] { "Rookie workout", "Let's Go!" };
+            /*
+             * For you header
+             * 
+             * 1
+             * a new standard
+             * sustained peak performance 
+             * 
+             * 2. nutrition guide
+             * TB12 nutrition philosophy
+             * 
+             * 3. the weakly workout
+             * focus of the day
+             * 
+             * 4. workout essentials 
+             * Gear up
+             * 
+             * 5. Recipe of the day
+             * Black bean burger
+             */
+            return new string[] { 
+                "Rookie workout", 
+                "Let's Go!" 
+            };
         }
 
         // GET api/values/5
