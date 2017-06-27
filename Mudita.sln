@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mudita", "Mudita\Mudita.csproj", "{4FE58AB8-BAED-4FE4-B045-16B62E2342FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FE58AB8-BAED-4FE4-B045-16B62E2342FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FE58AB8-BAED-4FE4-B045-16B62E2342FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FE58AB8-BAED-4FE4-B045-16B62E2342FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FE58AB8-BAED-4FE4-B045-16B62E2342FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
