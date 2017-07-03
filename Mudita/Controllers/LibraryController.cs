@@ -62,13 +62,13 @@ namespace Mudita.Controllers
     public class Course
     {
         public string Name;
-        public bool IsPrimary;
+        public bool IsPremium;
         public int TotalArticles = 1;
 
         public Course(string name, bool primary)
         {
             Name = name;
-            IsPrimary = primary;
+            IsPremium = primary;
         }
     }
 }
