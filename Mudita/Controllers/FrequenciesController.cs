@@ -4,7 +4,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace Mudita.Controllers
 {
     [Route("api/[controller]")]
-    public class FrequencyOptionsController : Controller
+    public class FrequenciesController : Controller
     {
         [HttpGet]
         public Dictionary<string, string>[] Get()
